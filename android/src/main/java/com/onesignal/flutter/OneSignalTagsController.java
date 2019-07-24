@@ -1,6 +1,6 @@
 package com.onesignal.flutter;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
